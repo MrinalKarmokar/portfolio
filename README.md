@@ -6,4 +6,4 @@
 
 ### Change Name, Email and Password
 
-### Forgot Password
+### Forgot Password (Password Reset)
